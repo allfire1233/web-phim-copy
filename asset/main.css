@@ -114,6 +114,7 @@ body{
     display: flex;
     flex-direction: column;
     row-gap: 34px;
+    z-index: 1000;
 }
 .nav-link{
     display: flex;
